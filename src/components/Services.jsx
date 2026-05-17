@@ -56,9 +56,6 @@ export default function Services() {
         setActiveIdx(null);
       }}
     >
-      <div className="absolute top-[5vh] left-4 md:left-8">
-        <span className="font-dm text-[10px] tracking-[0.3em] uppercase opacity-40">Services</span>
-      </div>
       {/* Custom Blue Cursor */}
       <div
         ref={cursorRef}

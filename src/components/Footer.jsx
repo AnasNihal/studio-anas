@@ -39,13 +39,13 @@ export default function Footer() {
         </div>
 
         <div className="flex flex-col max-w-md relative">
-          <p className="mb-8">WE ARE A CREATIVE STUDIO BASED IN PARIS,<br />BARCELONA & LONDON.</p>
-          <p className="mb-8">BIG PROJECT? CRAZY THOUGHT? OR JUST FEEL LIKE<br />CHATTING?</p>
-          <p className="mb-8">LET'S TALK!</p>
-          <a href="mailto:HELLO@STUDIOANAS.COM" className="mb-12 hover:opacity-50">HELLO@STUDIOANAS.COM</a>
+          <p className="mb-8 uppercase">I'M A BUILDER, CREATOR & AI ENTHUSIAST BASED IN KERALA & BANGALORE.</p>
+          <p className="mb-8 uppercase">GOT A PROJECT IDEA? WILD THOUGHT? OR JUST WANT TO GEEK OUT ABOUT AI?</p>
+          <p className="mb-8 uppercase">LET'S TALK!</p>
+          <a href="mailto:HELLO@ANASNIHAL.COM" className="mb-12 hover:opacity-50 uppercase">HELLO@ANASNIHAL.COM</a>
 
           <div className="relative">
-            <p>COPYRIGHT 2024<br />STUDIO ANAS</p>
+            <p className="uppercase">COPYRIGHT 2025<br />ANAS NIHAL</p>
             <div className="absolute top-[-20px] left-[40%] bg-brandBlue text-white font-anton text-2xl md:text-3xl px-4 py-2 -rotate-12 rounded">
               SEND LOVE
             </div>
